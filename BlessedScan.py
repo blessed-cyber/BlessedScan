@@ -3,10 +3,10 @@ from colorama import init
 from termcolor import cprint
 import whois
 
-# Initialize colorama
+
 init()
 
-# Print the banner
+
 cprint("""
 ██████╗ ██╗     ███████╗███████╗███████╗███████╗██████╗ ███████╗ ██████╗ █████╗ ███╗   ██╗
 ██╔══██╗██║     ██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
