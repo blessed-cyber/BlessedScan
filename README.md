@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="b.png" width="800px" alt="Mem0 Logo">
+    <img src="b.png" width="800px" alt="BlessedScan Logo">
   </p>
   
   
